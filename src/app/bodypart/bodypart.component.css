@@ -1,0 +1,8 @@
+.contentBG {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  height: 90%;
+  border: 2px white solid;
+  box-shadow: 2px 1px lightgrey;
+}

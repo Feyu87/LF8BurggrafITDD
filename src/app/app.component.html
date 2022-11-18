@@ -1,4 +1,9 @@
-<mat-drawer-container class="example-container">
-  <mat-drawer mode="side" opened>Drawer content</mat-drawer>
-  <mat-drawer-content>Main content</mat-drawer-content>
-</mat-drawer-container>
+<mat-sidenav-container class="example-container">
+  <mat-sidenav #sidenav mode="over" [(opened)]="opened">
+    <app-navigationpart></app-navigationpart>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <button mat-button (click)="sidenav.toggle()"><mat-icon>menu</mat-icon></button>
+    <app-bodypart></app-bodypart>
+  </mat-sidenav-content>
+</mat-sidenav-container>
