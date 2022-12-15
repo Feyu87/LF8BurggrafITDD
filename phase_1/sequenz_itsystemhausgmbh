@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2022-11-03T11:30:06.097Z" agent="5.0 (Windows)" etag="1ignVkqTtw-_nT9n148a" version="20.5.1" type="github">
+  <diagram id="uX-SkOLv7ddhcGVf0sfs" name="Seite-1">
+    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="100" y="70" width="1140" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-2" value="sd itsystemhausgmbh" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-3" value="Nutzer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="215" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.114;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.114;exitY=0.474;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="hZMSExRfjXZBX5CzeHcP-1" target="hZMSExRfjXZBX5CzeHcP-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="600" as="sourcePoint" />
+            <mxPoint x="390" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="217" y="285" width="30" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-9" value="Button: Menu" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="502" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-10" value="Event: click()" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hZMSExRfjXZBX5CzeHcP-7" target="hZMSExRfjXZBX5CzeHcP-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="390" as="sourcePoint" />
+            <mxPoint x="390" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.114;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="546" y="410" as="sourcePoint" />
+            <mxPoint x="546.4100000000001" y="250.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="532" y="285" width="30" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-19" value="Event: click()" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hZMSExRfjXZBX5CzeHcP-20" target="hZMSExRfjXZBX5CzeHcP-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="406" as="sourcePoint" />
+            <mxPoint x="532" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="215" y="406" width="30" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_x-128.png;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="523.5" y="406" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-24" value="Button: Zeichnen canvas" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="340" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="hZMSExRfjXZBX5CzeHcP-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="673" y="520" as="sourcePoint" />
+            <mxPoint x="610" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="655" y="405" width="30" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-26" value="Event: click()" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fontStyle=1;strokeColor=default;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="460.9999999999998" as="sourcePoint" />
+            <mxPoint x="850" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_x-128.png;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="206.5" y="610" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="mWcXeBQwwmAPsr_VP7KS-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="865" y="540" as="sourcePoint" />
+            <mxPoint x="864.5" y="428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWcXeBQwwmAPsr_VP7KS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="850" y="460" width="30" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="mWcXeBQwwmAPsr_VP7KS-3" value="Funktion: draw(parameter x,y,z)" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="782" y="396" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mWcXeBQwwmAPsr_VP7KS-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_x-128.png;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="649" y="520" width="47" height="47" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
