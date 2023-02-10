@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T09:30:28.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.19" etag="-QYBEI0Q9CHQ7iUfB5Zd" type="github"><diagram name="Seite-1" id="wxMwb4WnSrOtw7gjWyU3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-10T09:38:20.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="4-mhxFx_8gV_qoo9IEk5" version="20.8.19" type="github">
+  <diagram name="Seite-1" id="wxMwb4WnSrOtw7gjWyU3">
+    <mxGraphModel dx="882" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XjkSrU-1Rp8GbxPIB6XL-1" value="Mensch" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XjkSrU-1Rp8GbxPIB6XL-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="XjkSrU-1Rp8GbxPIB6XL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415" y="361" as="sourcePoint" />
+            <mxPoint x="415" y="421" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XjkSrU-1Rp8GbxPIB6XL-4" value="Karle" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XjkSrU-1Rp8GbxPIB6XL-5" value="Karles Zimmer&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="245" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="XjkSrU-1Rp8GbxPIB6XL-8" value="Schlafen Gehen" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XjkSrU-1Rp8GbxPIB6XL-10" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XjkSrU-1Rp8GbxPIB6XL-4" target="XjkSrU-1Rp8GbxPIB6XL-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="440" as="sourcePoint" />
+            <mxPoint x="510" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XjkSrU-1Rp8GbxPIB6XL-11" value="&amp;gt;&amp;gt; include" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XjkSrU-1Rp8GbxPIB6XL-14" target="XjkSrU-1Rp8GbxPIB6XL-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639.2857142857142" y="430" as="sourcePoint" />
+            <mxPoint x="510" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XjkSrU-1Rp8GbxPIB6XL-14" value="wait 12h then repeat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
