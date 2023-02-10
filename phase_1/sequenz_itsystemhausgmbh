@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T11:30:06.097Z" agent="5.0 (Windows)" etag="1ignVkqTtw-_nT9n148a" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T12:32:12.349Z" agent="5.0 (Windows)" etag="RWmiQgpIjVE2BUJzC2Br" version="20.8.20" type="github">
   <diagram id="uX-SkOLv7ddhcGVf0sfs" name="Seite-1">
-    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
             <mxPoint x="390" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZMSExRfjXZBX5CzeHcP-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.114;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="hZMSExRfjXZBX5CzeHcP-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.114;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" source="hZMSExRfjXZBX5CzeHcP-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="546" y="410" as="sourcePoint" />
             <mxPoint x="546.4100000000001" y="250.9999999999999" as="targetPoint" />
@@ -50,7 +50,7 @@
           <mxGeometry x="215" y="406" width="30" height="85" as="geometry" />
         </mxCell>
         <mxCell id="hZMSExRfjXZBX5CzeHcP-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_x-128.png;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="523.5" y="406" width="47" height="47" as="geometry" />
+          <mxGeometry x="523.5" y="660" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="hZMSExRfjXZBX5CzeHcP-24" value="Button: Zeichnen canvas" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="340" width="165" height="30" as="geometry" />
@@ -70,23 +70,71 @@
             <mxPoint x="850" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hZMSExRfjXZBX5CzeHcP-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_x-128.png;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="206.5" y="610" width="47" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="mWcXeBQwwmAPsr_VP7KS-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="mWcXeBQwwmAPsr_VP7KS-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="865" y="540" as="sourcePoint" />
             <mxPoint x="864.5" y="428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mWcXeBQwwmAPsr_VP7KS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="mWcXeBQwwmAPsr_VP7KS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="850" y="460" width="30" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="mWcXeBQwwmAPsr_VP7KS-3" value="Funktion: draw(parameter x,y,z)" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mWcXeBQwwmAPsr_VP7KS-3" value="Funktion: draw(parameter x,y,z)" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="782" y="396" width="198" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mWcXeBQwwmAPsr_VP7KS-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_x-128.png;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="mWcXeBQwwmAPsr_VP7KS-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_x-128.png;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="649" y="520" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.114;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.114;exitY=0.474;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="851" as="sourcePoint" />
+            <mxPoint x="230" y="491" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-4" value="Event: click()" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rvs-N4JI5k4oPvZHaTJ3-5" target="Rvs-N4JI5k4oPvZHaTJ3-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="647" as="sourcePoint" />
+            <mxPoint x="532" y="647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="215" y="647" width="30" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-6" value="Button: Radiere canvas" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="581" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Rvs-N4JI5k4oPvZHaTJ3-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="673" y="761" as="sourcePoint" />
+            <mxPoint x="610" y="881" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="655" y="646" width="30" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-9" value="Event: click()" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fontStyle=1;strokeColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="685" y="701.9999999999998" as="sourcePoint" />
+            <mxPoint x="850" y="701" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_x-128.png;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="206.5" y="851" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="865" y="781" as="sourcePoint" />
+            <mxPoint x="864.5" y="669" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-12" value="Funktion: rubber(parameter x,y,z)" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="782" y="637" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_x-128.png;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="649" y="761" width="47" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Rvs-N4JI5k4oPvZHaTJ3-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="850" y="701" width="30" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
