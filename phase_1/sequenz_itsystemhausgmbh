@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T10:22:25.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0" etag="Wy5r7CBemIhOvdMTmU_i" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T10:27:04.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0" etag="AKedTcBH2RFBM7SM7Ak0" version="21.1.2" type="github">
   <diagram id="uX-SkOLv7ddhcGVf0sfs" name="Seite-1">
-    <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,30 @@
         </mxCell>
         <mxCell id="hZMSExRfjXZBX5CzeHcP-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="532" y="405" width="30" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="2yZARePRdgMavnySlVvc-25" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="666" y="760" width="12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2yZARePRdgMavnySlVvc-26" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="859" y="780" width="12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2yZARePRdgMavnySlVvc-27" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="861" y="1020" width="12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2yZARePRdgMavnySlVvc-29" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="668.5" y="1000" width="12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2yZARePRdgMavnySlVvc-30" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="541" y="1140" width="12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2yZARePRdgMavnySlVvc-31" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="224" y="1130" width="12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2yZARePRdgMavnySlVvc-32" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="859" y="540" width="12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2yZARePRdgMavnySlVvc-33" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=1;targetShapes=umlLifeline;" vertex="1" parent="1">
+          <mxGeometry x="666.5" y="520" width="12" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
